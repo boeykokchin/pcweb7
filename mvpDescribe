@@ -1,0 +1,27 @@
+App name: FoodShare Singapore App (web/mob)
+
+Description: Platform for food (processed/perishable/all-food-matters) sharing between sharers and sharees. Shareres/sharees can be individual/group(s)/companies. Target aligned towards zero food waste. Even if food had expired, there will be solutions for reuse/recycle. Commercial returns can be realized through various stages.
+
+Example/Analogies:
+(a) Food excess during a party in company. Use app to share food availability. Interested people come get food - probably from the same building of company.
+(b) Caned food / perishables shared to reduce food waste.
+
+MVP steps:
+Step-1-Sharer -> upload:
+(a) Description of food to share
+(b) Picture of food to share (limit to 3 pictures)
+(c) Expected Expiry Date
+(d) Collection location (not actual address)
+(d) Category
+(e) Tag
+(f) Comment
+(g) Status
+Step-2-Sharee -> initiate interest:
+(a) Start chat history with Sharer
+(b) Comment
+(c) Rating
+
+Expected development software/platform:
+(a) PHP, Laravel, SQL
+(b) HTML, CSS, JS
+(c) React
